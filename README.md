@@ -1,2 +1,2 @@
-# WGU-C867
+# WGU-C867 C++ Project
 Performance Assessment-FPP1
