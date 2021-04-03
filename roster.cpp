@@ -1,5 +1,5 @@
 /*
-Demonstrate the program’s required functionality by adding a void main() function to roster.cpp, 
+Demonstrate the programâ€™s required functionality by adding a void main() function to roster.cpp, 
 	which will contain the required function calls to achieve the following results:
 1.  Print out to the screen, via your application, the course title, the programming language used,	
 	your student ID, and your name.
@@ -251,14 +251,3 @@ void Roster::remove(string studentID) {
 		cout << "Error 12345: Student ID " << studentID << " wasn't found.  Please check the spelling and try again." << endl;
 	}
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
